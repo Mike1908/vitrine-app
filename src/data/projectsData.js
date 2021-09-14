@@ -13,7 +13,7 @@ export const projectsData = [
     id: 2,
     title: "Chatbox",
     date: "sept 2021",
-    languages: ["React", "Javascrip","Firebase","Css"],
+    languages: ["React", "Javascript","Firebase","Css"],
     infos:
       "Il s’agit d’une chatbox qui utilisé firebase pour garde en mémoire les donnes (message) échangé entre des utilisateurs inscrits. Les messages sont envoyés de façon instantanée.",
     img: "./assets/img/Chatbox.PNG",
@@ -21,12 +21,12 @@ export const projectsData = [
   },
   {
     id: 3,
-    title: "Everpost",
-    date: "Avril 2020",
-    languages: ["Wordpress", "Php", "React"],
+    title: "site sans framwork",
+    date: "sept 2021",
+    languages: ["HTML", "Css", "Javascript"],
     infos:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quas cumque labore suscipit, pariatur laboriosam autem omnis saepe quisquam enim iste.",
-    img: "./assets/img/projet-3.jpg",
+      "prototype de site en une page code en dure",
+    img: "./assets/img/siteEnHTML.PNG",
     link: "http://www.google.com",
   },
   {
