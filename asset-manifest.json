@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/react-showcase/static/css/main.8eb57481.chunk.css",
-    "main.js": "/react-showcase/static/js/main.d2dea2b6.chunk.js",
-    "main.js.map": "/react-showcase/static/js/main.d2dea2b6.chunk.js.map",
-    "runtime-main.js": "/react-showcase/static/js/runtime-main.91252064.js",
-    "runtime-main.js.map": "/react-showcase/static/js/runtime-main.91252064.js.map",
-    "static/js/2.6b0271c2.chunk.js": "/react-showcase/static/js/2.6b0271c2.chunk.js",
-    "static/js/2.6b0271c2.chunk.js.map": "/react-showcase/static/js/2.6b0271c2.chunk.js.map",
-    "index.html": "/react-showcase/index.html",
-    "static/css/main.8eb57481.chunk.css.map": "/react-showcase/static/css/main.8eb57481.chunk.css.map",
-    "static/js/2.6b0271c2.chunk.js.LICENSE.txt": "/react-showcase/static/js/2.6b0271c2.chunk.js.LICENSE.txt",
-    "static/media/index.scss": "/react-showcase/static/media/Questrial-Regular.96dd668f.ttf"
+    "main.css": "/vitrine-app/static/css/main.ed9288ad.chunk.css",
+    "main.js": "/vitrine-app/static/js/main.59e23f49.chunk.js",
+    "main.js.map": "/vitrine-app/static/js/main.59e23f49.chunk.js.map",
+    "runtime-main.js": "/vitrine-app/static/js/runtime-main.373cd460.js",
+    "runtime-main.js.map": "/vitrine-app/static/js/runtime-main.373cd460.js.map",
+    "static/js/2.2f2a4739.chunk.js": "/vitrine-app/static/js/2.2f2a4739.chunk.js",
+    "static/js/2.2f2a4739.chunk.js.map": "/vitrine-app/static/js/2.2f2a4739.chunk.js.map",
+    "index.html": "/vitrine-app/index.html",
+    "static/css/main.ed9288ad.chunk.css.map": "/vitrine-app/static/css/main.ed9288ad.chunk.css.map",
+    "static/js/2.2f2a4739.chunk.js.LICENSE.txt": "/vitrine-app/static/js/2.2f2a4739.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/vitrine-app/static/media/Questrial-Regular.96dd668f.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.91252064.js",
-    "static/js/2.6b0271c2.chunk.js",
-    "static/css/main.8eb57481.chunk.css",
-    "static/js/main.d2dea2b6.chunk.js"
+    "static/js/runtime-main.373cd460.js",
+    "static/js/2.2f2a4739.chunk.js",
+    "static/css/main.ed9288ad.chunk.css",
+    "static/js/main.59e23f49.chunk.js"
   ]
 }
