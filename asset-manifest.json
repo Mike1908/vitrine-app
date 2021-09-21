@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-showcase/static/css/main.8eb57481.chunk.css",
+    "main.js": "/react-showcase/static/js/main.2764da39.chunk.js",
+    "main.js.map": "/react-showcase/static/js/main.2764da39.chunk.js.map",
+    "runtime-main.js": "/react-showcase/static/js/runtime-main.91252064.js",
+    "runtime-main.js.map": "/react-showcase/static/js/runtime-main.91252064.js.map",
+    "static/js/2.6b0271c2.chunk.js": "/react-showcase/static/js/2.6b0271c2.chunk.js",
+    "static/js/2.6b0271c2.chunk.js.map": "/react-showcase/static/js/2.6b0271c2.chunk.js.map",
+    "index.html": "/react-showcase/index.html",
+    "static/css/main.8eb57481.chunk.css.map": "/react-showcase/static/css/main.8eb57481.chunk.css.map",
+    "static/js/2.6b0271c2.chunk.js.LICENSE.txt": "/react-showcase/static/js/2.6b0271c2.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/react-showcase/static/media/Questrial-Regular.96dd668f.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91252064.js",
+    "static/js/2.6b0271c2.chunk.js",
+    "static/css/main.8eb57481.chunk.css",
+    "static/js/main.2764da39.chunk.js"
+  ]
+}
