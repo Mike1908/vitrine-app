@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/vitrine-app/static/css/main.ed9288ad.chunk.css",
-    "main.js": "/vitrine-app/static/js/main.961e73a8.chunk.js",
-    "main.js.map": "/vitrine-app/static/js/main.961e73a8.chunk.js.map",
+    "main.js": "/vitrine-app/static/js/main.0a345a3b.chunk.js",
+    "main.js.map": "/vitrine-app/static/js/main.0a345a3b.chunk.js.map",
     "runtime-main.js": "/vitrine-app/static/js/runtime-main.373cd460.js",
     "runtime-main.js.map": "/vitrine-app/static/js/runtime-main.373cd460.js.map",
     "static/js/2.2f2a4739.chunk.js": "/vitrine-app/static/js/2.2f2a4739.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.373cd460.js",
     "static/js/2.2f2a4739.chunk.js",
     "static/css/main.ed9288ad.chunk.css",
-    "static/js/main.961e73a8.chunk.js"
+    "static/js/main.0a345a3b.chunk.js"
   ]
 }
