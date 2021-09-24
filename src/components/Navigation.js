@@ -9,7 +9,7 @@ const Navigation = () => {
     return (
         <div className="navigation">
             <ul>
-                <NavLink to="/" exact className="hover" 
+                <NavLink to="/vitrine-app/" exact className="hover" 
                     activeClassName="nav-active">
                     <li>Accueil</li>
                 </NavLink>
@@ -18,24 +18,27 @@ const Navigation = () => {
 
                     <ul className="nav-projects">
                         
-                        <NavLink to="/project-1" exact className ="hover"
+                        <NavLink to="/vitrine-app/project-1" exact className ="hover"
                             activeClassName="nav-active">
                             <li>Project 1</li>
                         </NavLink>
-                        <NavLink to="/project-2" exact className ="hover"
+                        <NavLink to="/vitrine-app/project-2" exact className ="hover"
                             activeClassName="nav-active">
                             <li>Project 2</li>
                         </NavLink>
-                        <NavLink to="/project-3" exact className ="hover"
+                        <NavLink to="/vitrine-app/project-3" exact className ="hover"
                             activeClassName="nav-active">
                             <li>Project 3</li>
                         </NavLink>
-
+                        <NavLink to="/vitrine-app/project-4" exact className ="hover"
+                            activeClassName="nav-active">
+                            <li>Project 4</li>
+                        </NavLink>
                     </ul>
 
                 </li>
 
-                <NavLink to="/contact" exact className="hover" 
+                <NavLink to="/vitrine-app/contact" exact className="hover" 
                     activeClassName="nav-active">
                     <li>Contact</li>
                 </NavLink>

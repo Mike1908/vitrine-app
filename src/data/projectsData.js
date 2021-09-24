@@ -27,16 +27,16 @@ export const projectsData = [
     infos:
       "prototype de site en une page code en dure",
     img: "./assets/img/siteEnHTML.PNG",
-    link: "http://www.google.com",
+    link: "https://mike1908.github.io/siteWeb/",
   },
   {
     id: 4,
-    title: "Creative Dev",
-    date: "Juillet 2020",
-    languages: ["Vue", "Php"],
+    title: "color switch",
+    date: "Avril 2018",
+    languages: ["Java", "Javafx"],
     infos:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quas cumque labore suscipit, pariatur laboriosam autem omnis saepe quisquam enim iste.",
-    img: "./assets/img/projet-4.jpg",
+      "petit jeu en MVC avec java et javafx ou le jouer doit passe les obstacles en ayant la bonne couleur.",
+    img: "",
     link: "http://www.google.com",
   },
 ];

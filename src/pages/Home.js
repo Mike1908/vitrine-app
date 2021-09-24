@@ -23,7 +23,7 @@ const Home = () => {
                         <h2><DynamicText/></h2>
                     </div>
                 </div>
-                <BottomButtons right={"/project-1"}></BottomButtons>
+                <BottomButtons right={"/vitrine-app/project-1"}></BottomButtons>
 
             </div>
             

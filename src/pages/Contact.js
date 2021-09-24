@@ -59,7 +59,7 @@ const Contact = () => {
                 
                 <SocialNetwork></SocialNetwork>
             </div> 
-            <BottomButtons left={"/project-3"}></BottomButtons>  
+            <BottomButtons left={"/vitrine-app/project-3"}></BottomButtons>  
         </div>
     </main>
         
