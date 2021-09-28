@@ -6,7 +6,7 @@ export const projectsData = [
     languages: ["React", "Javascript", "Youtube Api", "Css"],
     infos:
       "Le site est un clone graphique de YouTube qui utilise l api de YouTube pour recherche des vidéos et les lires directement sur le site.",
-    img: "./assets/img/YouTubeMin.PNG",
+    img: "./assets/img/YoutubeMin.PNG",
     link: "https://Mike1908.github.io/youtube-app/",
   },
   {
@@ -16,7 +16,7 @@ export const projectsData = [
     languages: ["React", "Javascript","Firebase","Css"],
     infos:
       "Il s’agit d’une chatbox qui utilisé firebase pour garde en mémoire les donnes (message) échangé entre des utilisateurs inscrits. Les messages sont envoyés de façon instantanée.",
-    img: "./assets/img/Chatbox.PNG",
+    img: "./assets/img/chatbox.PNG",
     link: "https://mike1908.github.io/chatbox-app/",
   },
   {
