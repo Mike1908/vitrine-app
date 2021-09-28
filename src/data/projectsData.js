@@ -6,7 +6,7 @@ export const projectsData = [
     languages: ["React", "Javascript", "Youtube Api", "Css"],
     infos:
       "Le site est un clone graphique de YouTube qui utilise l api de YouTube pour recherche des vidéos et les lires directement sur le site.",
-    img: "./assets/img/YouTube.PNG",
+    img: "./assets/img/YouTubeMin.PNG",
     link: "https://Mike1908.github.io/youtube-app/",
   },
   {
