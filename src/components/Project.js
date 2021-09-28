@@ -10,7 +10,7 @@ const Project = (props) => {
     let top = Math.floor(Math.random() * 200 + 150) + "px"
     let size = "scale(" + (Math.random() + 0.7) + ")"
     //////////////////////////////////////////
-
+    
     return (
         <div className="project-main">
             <div className="project-content">

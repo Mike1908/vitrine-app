@@ -36,7 +36,7 @@ export const projectsData = [
     languages: ["Java", "Javafx"],
     infos:
       "petit jeu en MVC avec java et javafx ou le jouer doit passe les obstacles en ayant la bonne couleur.",
-    img: "",
+    img: "./assets/img/color.PNG",
     link: "http://www.google.com",
   },
 ];
