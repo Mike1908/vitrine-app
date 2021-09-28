@@ -37,6 +37,6 @@ export const projectsData = [
     infos:
       "petit jeu en MVC avec java et javafx ou le jouer doit passe les obstacles en ayant la bonne couleur.",
     img: "./assets/img/color.PNG",
-    link: "http://www.google.com",
+    link: "https://github.com/Mike1908/colorswitchSuite",
   },
 ];
