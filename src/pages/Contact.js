@@ -21,8 +21,15 @@ const Contact = () => {
                 <div className="address">
                     <div className="content">
                         <h4>Adresse</h4>
-                        <p>12 rue du code</p>
-                        <p>7705 acadie</p>
+                        <CopyToClipboard text="1508-7705 boulevard de l'acadie, Montreal, QC H3N2W1" className="hover">
+                            <p style={{cursor: "pointer"}} 
+                            className="clipboard"
+                            onClick={() => {
+                                alert('Telephone copie !');
+                            }}>
+                                1508-7705 boulevard<br/> de l'acadie, Montreal
+                            </p>
+                        </CopyToClipboard>
                     </div>
                 </div>
 
