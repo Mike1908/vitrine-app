@@ -53,7 +53,20 @@ export const  Project4 = () =>{
                 <Navigation/>
                 <Logo></Logo>
                 <Project ProNumber={3}></Project>
-                <BottomButtons left={'/vitrine-app/project-3'} right={'/vitrine-app/contact'} />
+                <BottomButtons left={'/vitrine-app/project-3'} right={'/vitrine-app/project-5'} />
+            </div>
+        </main>
+    )
+}
+
+export const  Project5 = () =>{
+    return (
+        <main>
+            <div className="project">
+                <Navigation/>
+                <Logo></Logo>
+                <Project ProNumber={4}></Project>
+                <BottomButtons left={'/vitrine-app/project-4'} right={'/vitrine-app/contact'} />
             </div>
         </main>
     )

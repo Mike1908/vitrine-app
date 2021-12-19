@@ -39,4 +39,14 @@ export const projectsData = [
     img: "./assets/img/color.PNG",
     link: "https://github.com/Mike1908/colorswitchSuite",
   },
+  {
+    id: 5,
+    title: "Site Crud",
+    date: "Decembre 2021",
+    languages: ["Javascript", "Firebase","React","Css"],
+    infos:
+      "Site web CRUD (création, suppression, modification et lecture) de vente en ligne. connexion avec authentification firebase.",
+    img: "./assets/img/CRUD.PNG",
+    link: "https://mike1908.github.io/CRUD/",
+  },
 ];

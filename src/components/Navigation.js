@@ -34,6 +34,10 @@ const Navigation = () => {
                             activeClassName="nav-active">
                             <li>Project 4</li>
                         </NavLink>
+                        <NavLink to="/vitrine-app/project-5" exact className ="hover"
+                            activeClassName="nav-active">
+                            <li>Project 5</li>
+                        </NavLink>
                     </ul>
 
                 </li>
