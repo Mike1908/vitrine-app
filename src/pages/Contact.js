@@ -16,6 +16,30 @@ const Contact = () => {
             <Navigation/>
             <Logo></Logo>
             {/** */}
+            <div className='infos-cv'>
+
+                <div>
+                    <h3>Mike Useni Sefu</h3>
+                    <p>
+                        Je suis Programmeur web full stack, diplôme de l’université de Montréal en 2021. 
+                    </p>
+                </div><br />
+                <div>
+                    <h3>Languages</h3>
+                    <p>
+                        Java, Javascript, HTML, CSS, XML, Python, SQL, Php, C. 
+                    </p>
+                </div><br />
+                
+                <div>
+                    <h3>Frameworks</h3>
+                    <p>
+                        React.js, React.Natif, Javafx, Bootstrap, SCSS, Firebase, Mongodb, SceneBuilder
+                        , wordpress.
+                    </p>
+                </div>
+
+            </div>
             <div className="contact-infos">
 
                 <div className="address">
@@ -66,7 +90,7 @@ const Contact = () => {
                 
                 <SocialNetwork></SocialNetwork>
             </div> 
-            <BottomButtons left={"/vitrine-app/project-3"}></BottomButtons>  
+            <BottomButtons left={"/vitrine-app/project-5"}></BottomButtons>  
         </div>
     </main>
         

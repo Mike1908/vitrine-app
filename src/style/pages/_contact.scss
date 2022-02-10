@@ -3,6 +3,14 @@
   width: 100vw;
   height: 100vh;
 
+  .infos-cv{
+    position: absolute;
+    top:20%;
+    left:12%;
+    color: white;
+    width:50%;
+  }
+
   &:after {
     content: "";
     height: 700px;
