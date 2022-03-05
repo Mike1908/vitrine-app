@@ -1,11 +1,11 @@
 export const projectsData = [
   {
     id: 1,
-    title: "Clone YouTube",
+    title: "Clone de YouTube",
     date: "aout 2021",
     languages: ["React", "Javascript", "Youtube Api", "Css"],
     infos:
-      "Le site est un clone graphique de YouTube qui utilise l api de YouTube pour recherche des vidéos et les lires directement sur le site.",
+      "Site web qui permet d’interroger une Api pour rechercher des vidéos sur YouTube ainsi que les infos de base comme le nombre de vues, la date de publication et la chaine qui l’a publié. Le site permet aussi de lire les vidéos avec le lecteur YouTube depuis le site clone.",
     img: "./assets/img/YoutubeMin.PNG",
     link: "https://Mike1908.github.io/youtube-app/",
   },
@@ -15,7 +15,7 @@ export const projectsData = [
     date: "sept 2021",
     languages: ["React", "Javascript","Firebase","Css"],
     infos:
-      "Il s’agit d’une chatbox qui utilisé firebase pour garde en mémoire les donnes (message) échangé entre des utilisateurs inscrits. Les messages sont envoyés de façon instantanée.",
+      "Une petite application web de chat box pour le quelle la connexion se fait avec un simple nom de profil qui permet d’indiquer qui a écrit quel message. le site utilise Firebase avec sa base de donne instantané.",
     img: "./assets/img/chatbox.PNG",
     link: "https://mike1908.github.io/chatbox-app/",
   },
@@ -25,7 +25,7 @@ export const projectsData = [
     date: "sept 2021",
     languages: ["HTML", "Css", "Javascript"],
     infos:
-      "prototype de site en une page code en dure",
+      "Site web responsive crée uniquement avec HTML, CSS et JavaScript sans autre Framework ou librairie tiers.",
     img: "./assets/img/siteEnHTML.PNG",
     link: "https://mike1908.github.io/siteWeb/",
   },
@@ -35,7 +35,7 @@ export const projectsData = [
     date: "Avril 2018",
     languages: ["Java", "Javafx"],
     infos:
-      "petit jeu en MVC avec java et javafx ou le jouer doit passe les obstacles en ayant la bonne couleur.",
+      "Petit jeu qui se joue à une touche ou le jouer doit passer les obstacles en ayant la bonne couleur , jeu  fait en java et javafx avec une architecture MVC.",
     img: "./assets/img/color.PNG",
     link: "https://github.com/Mike1908/colorswitchSuite",
   },
