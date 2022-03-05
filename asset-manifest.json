@@ -1,21 +1,15 @@
 {
   "files": {
-    "main.css": "/vitrine-app/static/css/main.6ae6645a.chunk.css",
-    "main.js": "/vitrine-app/static/js/main.9df11580.chunk.js",
-    "main.js.map": "/vitrine-app/static/js/main.9df11580.chunk.js.map",
-    "runtime-main.js": "/vitrine-app/static/js/runtime-main.373cd460.js",
-    "runtime-main.js.map": "/vitrine-app/static/js/runtime-main.373cd460.js.map",
-    "static/js/2.7ed1b4f6.chunk.js": "/vitrine-app/static/js/2.7ed1b4f6.chunk.js",
-    "static/js/2.7ed1b4f6.chunk.js.map": "/vitrine-app/static/js/2.7ed1b4f6.chunk.js.map",
+    "main.css": "/vitrine-app/static/css/main.13f1c1f2.css",
+    "main.js": "/vitrine-app/static/js/main.7c178e7e.js",
+    "static/media/Questrial-Regular.ttf": "/vitrine-app/static/media/Questrial-Regular.96dd668fc36d87af7f89.ttf",
+    "static/media/KronaOne-Regular.ttf": "/vitrine-app/static/media/KronaOne-Regular.c16b3db2142f2ebddaa8.ttf",
     "index.html": "/vitrine-app/index.html",
-    "static/css/main.6ae6645a.chunk.css.map": "/vitrine-app/static/css/main.6ae6645a.chunk.css.map",
-    "static/js/2.7ed1b4f6.chunk.js.LICENSE.txt": "/vitrine-app/static/js/2.7ed1b4f6.chunk.js.LICENSE.txt",
-    "static/media/index.scss": "/vitrine-app/static/media/Questrial-Regular.96dd668f.ttf"
+    "main.13f1c1f2.css.map": "/vitrine-app/static/css/main.13f1c1f2.css.map",
+    "main.7c178e7e.js.map": "/vitrine-app/static/js/main.7c178e7e.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.373cd460.js",
-    "static/js/2.7ed1b4f6.chunk.js",
-    "static/css/main.6ae6645a.chunk.css",
-    "static/js/main.9df11580.chunk.js"
+    "static/css/main.13f1c1f2.css",
+    "static/js/main.7c178e7e.js"
   ]
 }
