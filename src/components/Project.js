@@ -36,6 +36,9 @@ const Project = (props) => {
                         <a href={project.link} target="_blank" rel="noopener noreferrer" className="hover">
                             <span className="button">Voir</span>
                         </a>
+                        <a href={project.linkCode} target="_blank" rel="noopener noreferrer" className="hover">
+                            <span className="button">Code</span>
+                        </a>
                     </div>
             </div>
             <span className="random-circle" style={{left, top, transform:size}}></span>
