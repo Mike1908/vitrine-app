@@ -1,11 +1,11 @@
 .scroll-bottom {
   position: absolute;
-  bottom: 0.05rem;
+  bottom:1.2rem;
   left: 50%;
   transform: translateX(-50%);
   color: $color-1;
-  font-size: 1.5rem;
-  perspective: 30px;
+  font-size: 1.2rem;
+  //perspective: 40px;
 
   &:hover .sb-main {
     pointer-events: auto;
@@ -19,7 +19,7 @@
     justify-items: center;
     width: 150px;
     transition: 0.4s;
-    transform: rotateX(25deg) scaleY(0.8);
+    //transform: rotateX(25deg) scaleY(0.8);
     transform-origin: bottom;
     pointer-events: none;
 
@@ -34,16 +34,23 @@
       }
     }
     .left {
+      background-color:white;
+      border-radius:50%;
+      color:black;
       grid-area: a;
     }
     p {
-      grid-area: b;
+      
+      grid-area:b;
 
       @media screen and (max-width: 430px){
         display: none;
       }
     }
     .right {
+      background-color:white;
+      border-radius:50%;
+      color:black;
       grid-area: c;
     }
 
@@ -58,7 +65,7 @@
       transform: translateY(-1px);
 
       &:hover {
-        color: $color-1;
+        color: $black;
         font-size: 2rem;
       }
     }

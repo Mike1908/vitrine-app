@@ -4,7 +4,7 @@
   left: 1.4rem;
   font-size: 1.4rem;
   line-height: 28px;
-  color: $color-4;
+  color: $color-1;
 
   &:hover{
     z-index: 1;
@@ -36,15 +36,18 @@
     }
   }
   .nav-active {
-    color: $black;
+    color: $color-1;
   }
   ul:hover li:not(:hover) {
-    opacity: .5;
+    opacity:.8;
   }
   ul:hover li:hover {
+    background-color:$color-1;
+    border-radius:6px;
     color: $black;
     li:hover{
-      color:$color-1;
+      color: $black;
+
     }
   }
 
@@ -56,9 +59,11 @@
 
     &:hover .nav-projects,
     .nav-projects:hover {
-
       visibility: visible;
       opacity: 1;
+      @media screen and (max-width: 430px){
+       padding-left:10px;
+      }
 
       li {
         transform: rotatey(0deg)
@@ -68,18 +73,42 @@
     .nav-projects {
       position: absolute;
       visibility: hidden;
+      text-align: center;
       opacity: 0;
-      padding: 0 40px;
-      width: 300px;
+      padding: 0 20px;
+      width: 150px;
       transform: translateX(70px);
       transition: .3s ;
       perspective: 500px;
 
       li {
+        color:white;
+        width:100px;
         transform: rotatey(30deg) scaleX(1.2);
         transform-origin: center;
         transition: .3s;
       }
     }
+  }
+
+//correctif provisoir
+element {
+
+}
+* {
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style-type: none;
+    outline: none;
+    border: none;
+    text-decoration: none;
+
+  }
+  a, a:visited {
+
+      color:white;
+
   }
 }

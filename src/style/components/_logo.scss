@@ -4,6 +4,10 @@
   font-size: 1.2rem;
   user-select: none;
   color: $color-1;
+  @media screen and (max-width: 430px){
+    padding:2px;
+    position:initial;
+  }
 
   &:after {
     content: "";

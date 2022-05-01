@@ -90,7 +90,7 @@ const Contact = () => {
                 
                 <SocialNetwork></SocialNetwork>
             </div> 
-            <BottomButtons left={"/vitrine-app/project-5"}></BottomButtons>  
+            <BottomButtons left={"/vitrine-app/project-5"} pageName={"Contact"}></BottomButtons>  
         </div>
     </main>
         
