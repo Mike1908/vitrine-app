@@ -37,7 +37,7 @@ export const projectsData = [
     id: 4,
     title: "color switch",
     date: "Avril 2018",
-    languages: ["Java", "Javafx"],
+    languages: ["Java", "Javafx","CSS"],
     infos:
       "Petit jeu qui se joue à une touche ou le jouer doit passer les obstacles en ayant la bonne couleur , jeu  fait en java et javafx avec une architecture MVC.",
     img: "./assets/img/color.PNG",
