@@ -11,6 +11,29 @@ const Project = (props) => {
     let size = "scale(" + (Math.random() + 0.7) + ")"
     //////////////////////////////////////////
     
+    const renderButton=()=>{
+        if(project.link === ""){
+            return(
+                <div className="button-container">
+                    <a href={project.linkCode} target="_blank" rel="noopener noreferrer" className="hover">
+                        <span className="button">Code</span>
+                    </a>
+                </div>
+            )
+        }else{
+            return(
+                <div className="button-container">
+                        <a href={project.link} target="_blank" rel="noopener noreferrer" className="hover">
+                            <span className="button">Voir</span>
+                        </a>
+                        
+                        <a href={project.linkCode} target="_blank" rel="noopener noreferrer" className="hover">
+                            <span className="button">Code</span>
+                        </a>
+                    </div>
+            )
+        }
+    }
     return (
         <div className="project-main">
             <div className="project-content">
@@ -32,14 +55,7 @@ const Project = (props) => {
                     </span>
                     <img src={project.img} alt={project.title} />
                 </div>
-                    <div className="button-container">
-                        <a href={project.link} target="_blank" rel="noopener noreferrer" className="hover">
-                            <span className="button">Voir</span>
-                        </a>
-                        <a href={project.linkCode} target="_blank" rel="noopener noreferrer" className="hover">
-                            <span className="button">Code</span>
-                        </a>
-                    </div>
+                   {renderButton()}
             </div>
             <span className="random-circle" style={{left, top, transform:size}}></span>
         </div>

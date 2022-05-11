@@ -41,7 +41,7 @@ export const projectsData = [
     infos:
       "Petit jeu qui se joue à une touche où le joueur doit passer les obstacles en ayant la bonne couleur , jeu  fait en java et javafx avec une architecture MVC.",
     img: "./assets/img/color.PNG",
-    link: "https://github.com/Mike1908/colorswitchSuite",
+    link: "",
     linkCode: "https://github.com/Mike1908/colorswitchSuite",
   },
   {
