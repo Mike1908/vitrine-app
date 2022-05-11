@@ -16,7 +16,7 @@ export const projectsData = [
     date: "sept 2021",
     languages: ["React", "Javascript","Firebase","Css"],
     infos:
-      "Une petite application web de chat box pour le quelle la connexion se fait avec un simple nom de profil qui permet d’indiquer qui a écrit quel message. le site utilise Firebase avec sa base de donne instantané.",
+      "Une petite application web de chat box  pour la quelle la connexion se fait avec un simple nom de profil qui permet d’indiquer qui a écrit quel message. le site utilise Firebase avec sa base de données instantanée.",
     img: "./assets/img/chatbox.PNG",
     link: "https://mike1908.github.io/chatbox-app/",
     linkCode: "https://github.com/Mike1908/chatbox-app",
@@ -28,7 +28,7 @@ export const projectsData = [
     date: "sept 2021",
     languages: ["HTML", "Css", "Javascript"],
     infos:
-      "Site web responsive crée uniquement avec HTML, CSS et JavaScript sans autre Framework ou librairie tiers.",
+      "Site web responsive crée uniquement avec HTML, CSS et JavaScript sans autre Framework ou librairie tierce.",
     img: "./assets/img/siteEnHTML.PNG",
     link: "https://mike1908.github.io/siteWeb/",
     linkCode: "https://github.com/Mike1908/siteWeb",
@@ -39,7 +39,7 @@ export const projectsData = [
     date: "Avril 2018",
     languages: ["Java", "Javafx","CSS"],
     infos:
-      "Petit jeu qui se joue à une touche ou le jouer doit passer les obstacles en ayant la bonne couleur , jeu  fait en java et javafx avec une architecture MVC.",
+      "Petit jeu qui se joue à une touche où le joueur doit passer les obstacles en ayant la bonne couleur , jeu  fait en java et javafx avec une architecture MVC.",
     img: "./assets/img/color.PNG",
     link: "https://github.com/Mike1908/colorswitchSuite",
     linkCode: "https://github.com/Mike1908/colorswitchSuite",

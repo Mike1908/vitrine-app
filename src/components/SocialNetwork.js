@@ -22,6 +22,7 @@ const SocialNetwork = () => {
         })
     }
 
+    /// pas utiliser, donc masquer avec un display: none; en css
     return (
         <div className="social-network">
             <ul className="content">

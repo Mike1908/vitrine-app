@@ -20,23 +20,23 @@ const Navigation = () => {
                         
                         <NavLink to="/vitrine-app/project-1" exact className ="hover"
                             activeClassName="nav-active">
-                            <li>Project 1</li>
+                            <li>Projet 1</li>
                         </NavLink>
                         <NavLink to="/vitrine-app/project-2" exact className ="hover"
                             activeClassName="nav-active">
-                            <li>Project 2</li>
+                            <li>Projet 2</li>
                         </NavLink>
                         <NavLink to="/vitrine-app/project-3" exact className ="hover"
                             activeClassName="nav-active">
-                            <li>Project 3</li>
+                            <li>Projet 3</li>
                         </NavLink>
                         <NavLink to="/vitrine-app/project-4" exact className ="hover"
                             activeClassName="nav-active">
-                            <li>Project 4</li>
+                            <li>Projet 4</li>
                         </NavLink>
                         <NavLink to="/vitrine-app/project-5" exact className ="hover"
                             activeClassName="nav-active">
-                            <li>Project 5</li>
+                            <li>Projet 5</li>
                         </NavLink>
                     </ul>
 
