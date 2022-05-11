@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/vitrine-app/static/css/main.feb418fb.css",
-    "main.js": "/vitrine-app/static/js/main.b493909f.js",
+    "main.css": "/vitrine-app/static/css/main.b34bea3c.css",
+    "main.js": "/vitrine-app/static/js/main.9b3fbbf1.js",
     "static/media/Questrial-Regular.ttf": "/vitrine-app/static/media/Questrial-Regular.96dd668fc36d87af7f89.ttf",
     "static/media/KronaOne-Regular.ttf": "/vitrine-app/static/media/KronaOne-Regular.c16b3db2142f2ebddaa8.ttf",
     "index.html": "/vitrine-app/index.html",
-    "main.feb418fb.css.map": "/vitrine-app/static/css/main.feb418fb.css.map",
-    "main.b493909f.js.map": "/vitrine-app/static/js/main.b493909f.js.map"
+    "main.b34bea3c.css.map": "/vitrine-app/static/css/main.b34bea3c.css.map",
+    "main.9b3fbbf1.js.map": "/vitrine-app/static/js/main.9b3fbbf1.js.map"
   },
   "entrypoints": [
-    "static/css/main.feb418fb.css",
-    "static/js/main.b493909f.js"
+    "static/css/main.b34bea3c.css",
+    "static/js/main.9b3fbbf1.js"
   ]
 }
